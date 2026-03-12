@@ -1,5 +1,7 @@
 # bitnet-webgpu-chat
 
+https://github.com/user-attachments/assets/88fc8651-7559-41db-a3ec-8ffbcf0f1548
+
 Run a 3B ternary AI model locally in Node.js using WebGPU. No cloud API, no Python, no CUDA.
 
 ## What this is
